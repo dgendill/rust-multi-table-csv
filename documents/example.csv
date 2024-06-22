@@ -1,0 +1,7 @@
+Account Number,Investment Name,Symbol,Shares,Share Price,Total Value,
+1234567,NVIDIA Corp,NVDA,1,130.7,130.7,
+
+
+
+Account Number,Trade Date,Settlement Date,Transaction Type,Transaction Description,Investment Name,Symbol,Shares,Share Price,Principal Amount,Commissions and Fees,Net Amount,Accrued Interest,Account Type,
+1234567,2023-03-27,2023-03-27,Buy,Buy,Nvidia Corp,NVDA,0.00000,1.0,0.30,0.0,0.30,0.0,CASH,
